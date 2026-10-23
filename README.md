@@ -1,2 +1,2 @@
-# cestovani-svet
-cestovani
+# cestovani
+Ceska Republika
